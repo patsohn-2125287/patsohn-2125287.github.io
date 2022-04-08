@@ -1,0 +1,39 @@
+body {
+  background-color: DodgerBlue;
+}
+
+h1 {
+  color: Orange;
+  margin-left: 20px;
+}
+.Duality{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+	
+	#rcorners2 {
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 20px; 
+  width: 200px;
+  height: 150px;  
+}
+p.dotted {border-style: dotted;}
+p.ex1 {
+  margin: 20px;
+}
+.FinalFantasy { border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 20px; 
+  width: 200px;
+  height: 150px;  
+  float: right;
+}
